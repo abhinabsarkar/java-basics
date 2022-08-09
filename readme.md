@@ -2,3 +2,4 @@
 
 * [Java basics](/concepts/java-basics-readme.md)
 * [Run WebLogic in a docker container](/concepts/weblogic-container-readme.md)
+* [Sample applications](/concepts/java-samples-readme.md)
